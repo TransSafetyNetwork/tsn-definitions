@@ -1,4 +1,4 @@
-# Defining Transphobic Organising-0.0.2
+# hate-groups-0.0.2
 
 *(Note: This document is open to feedback and revision via engaging with [issues](https://github.com/TransSafetyNetwork/tsn-definitions/issues).
 Anonymous feedback can be delivered to @Chican3ry on Twitter or
