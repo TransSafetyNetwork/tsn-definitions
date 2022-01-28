@@ -2,4 +2,4 @@
 
 ## Work in progress
 
-* [Hate Groups](https://github.com/TransSafetyNetwork/tsn-definitions/blob/main/drafts/hate-groups-0.0.2.md) - currently establishing acceptance criteria.
+* [Hate Groups](drafts/hate-groups.md) - currently establishing acceptance criteria.
