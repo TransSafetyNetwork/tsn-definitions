@@ -50,7 +50,7 @@ These are high level requirements driving the need for the standard.
 These are criteria which should prevent release of such a tool for public use.
 
 1. The tool produced by this process MUST NOT replicate naturalisation of institutional harms. Any such schema should be actively designed AGAINST the existing bias in many systems to legitimise overpolicing of disenfranchised minority groups while failing to recognise the institution of policing itself as a potential source of harm.
-1. This tool MUST be compatible with intersectional organising, or embed in it hostility towards other intersecting marginalised social groups that might damage wider efforts at global harm reduction.
+1. This tool MUST be compatible with intersectional organising, and therefore not embed in it hostility towards other intersecting marginalised social groups that might damage wider efforts at global harm reduction.
 2. The tool produced SHOULD attempt to reduce remove legalese and technical or obscure uses of language that may be subject to easy misinterpretation.
 3. The tool SHOULD NOT embed forms of local understanding which interfere with identifying trans-national organised harm.
 
