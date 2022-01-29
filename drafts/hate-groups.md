@@ -2,7 +2,7 @@
 
 ## About this document
 
-This document is open to feedback and revision via engaging via the [issue tracker for this document](https://github.com/TransSafetyNetwork/tsn-definitions/issues/1). Anonymous feedback can be delivered to @Chican3ry on Twitter or mallory@transsafety dot network for incorporation into future releases. Please use the subject line “DTO feedback” to ensure that your feedback does not go missing.
+This document is open to feedback and revision via engaging via the [issue tracker for this document](https://github.com/TransSafetyNetwork/tsn-definitions/issues/1). Anonymous feedback can be delivered via email to mallory@transsafety dot network for incorporation into future releases. Please use the subject line “DTO feedback” to ensure that your feedback does not go missing.
 
 ### Author/Maintainer
 
