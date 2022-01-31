@@ -1,4 +1,4 @@
-# Hate Groups
+# Defining Organised Hostility
 
 ## About this document
 
@@ -30,6 +30,8 @@ This is a very early proposal for a standard and the information within is not s
 ## Summary
 
 Public bodies are becoming increasingly technocratic and often inaccessible to the voices of those being harmed, who lack a technical capability to articulate a clear evidence based case for even identifying harm to relevant bodies, let alone ending it. It has become increasingly common for trans* groups to describe organisations committed to harming them as “hate groups”, but for this to go ignored. While this is at core a result of the disenfranchisement of affected communities, one aspect of this is lack of evidence or clarity on what constitutes a hate group, such that this information can be used by highly bureaucratic organisations. Further, a default institutional position has arisen that lacks comprehension of transphobia necessary to recognise it and respond accordingly. Because of this, there is a need to create a framework for evidence gathering and identifying clearly the characteristics of the organised harms targeting the trans* community, and to make this available to the affected community, so as to eliminate ambiguities when communicating with other bodies.
+
+There are also additional open questions such as whether "hate" is a useful frame to be addressing these questions, when the main concern for activists and researchers is reducing harm and intervening against hostility targeted at minorities. This raises questions about if we need new language to replace "hate group" as a term.
 
 This document attempts to set out acceptance criteria for a technical classification tool for assessing transphobic organising, with a view to helping anti-harm researchers and members of the trans community communicate risk with public bodies (including but not limited to the public themselves, the press/media, regulatory bodies, civic institutions, government and granting organisations).
 
